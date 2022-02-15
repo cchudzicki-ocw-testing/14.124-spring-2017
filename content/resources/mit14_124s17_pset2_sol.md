@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 14.124 Spring 2017 Problem Set 2 Solutions
-type: OCWFile
 uid: 9787e63d-3737-b25c-50b1-becb5a5da36d
 ---

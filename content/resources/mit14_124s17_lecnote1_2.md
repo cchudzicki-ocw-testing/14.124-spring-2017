@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 14.124 Spring 2017 Lectures on the Theory of Contracts-Section 1 and 2
-type: OCWFile
 uid: be21e9cc-7622-31c5-0ab4-2bbf35ead5db
 ---

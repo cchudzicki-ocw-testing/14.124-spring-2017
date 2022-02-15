@@ -9,6 +9,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: 14.124 Spring 2017 Lecture Slides - Part 2
-type: OCWFile
 uid: 0a3d5359-0f17-f81f-1561-eb7d7922329d
 ---
