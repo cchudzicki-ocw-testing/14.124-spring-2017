@@ -49,7 +49,7 @@ Wilson, Robert. "[The Theory of Syndicates](http://www.jstor.org/stable/1909607?
 
 Kamenica, Emir, and Matthew Gentzkow. "[Bayesian Persuasion](https://www.aeaweb.org/articles?id=10.1257/aer.101.6.2590)." _American Economic Review_ 101, no. 6 (2011): 2590–2615.
 
-Class Notes: [Decision Making Under Uncertainity: Experiments and Value of Information (PDF)]({{< baseurl >}}/resources/mit14_124s17_notes1).
+Class Notes: {{< resource_link 52e80271-a5a9-2ebe-d25c-55f3f2ca6e69 "Decision Making Under Uncertainity: Experiments and Value of Information (PDF)" >}}.
 
 
 {{< tdclose >}}
