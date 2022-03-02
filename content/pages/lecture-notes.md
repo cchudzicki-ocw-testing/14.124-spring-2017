@@ -12,7 +12,7 @@ The following lecture notes were created by Lars Stole. Used with permission. 
 Lectures on the Theory of Contracts
 -----------------------------------
 
-{{< resource_link be21e9cc-7622-31c5-0ab4-2bbf35ead5db "Sections 1 & 2: Preface and Moral Hazard and Incentives Contracts (PDF)" >}} 
+{{% resource_link be21e9cc-7622-31c5-0ab4-2bbf35ead5db "Sections 1 & 2: Preface and Moral Hazard and Incentives Contracts (PDF)" %}} 
 
 ### Table of Contents
 
@@ -38,7 +38,7 @@ Lectures on the Theory of Contracts
 
 2.2.3 Renegotiation of Risk-Sharing (pg. 40)
 
-{{< resource_link 8e0c2484-aed6-9064-05ff-e7d9ba73375e "Section 3: Mechanism Design and Self-Selection Contracts (PDF)" >}}
+{{% resource_link 8e0c2484-aed6-9064-05ff-e7d9ba73375e "Section 3: Mechanism Design and Self-Selection Contracts (PDF)" %}}
 
 ### Table of Contents
 

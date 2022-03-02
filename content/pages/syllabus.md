@@ -42,4 +42,4 @@ Varian, Hal R. _Microeconomic Analysis, Third Edition_. W.W Norton & Company, 19
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262072151) Gollier, Christian. _The Economics of Risk and Time_. The MIT Press, 2004. 9780262572248.
 
-See the {{< resource_link 6314a401-a9f8-3769-d31f-10d13d65dc84 "Readings" >}} section for the complete list of the readings used in the class.
+See the {{% resource_link 6314a401-a9f8-3769-d31f-10d13d65dc84 "Readings" %}} section for the complete list of the readings used in the class.

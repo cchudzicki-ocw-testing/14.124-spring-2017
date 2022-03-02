@@ -6,7 +6,7 @@ title: Study Materials
 uid: b5cbd324-e6ea-5fba-a8e9-515482ba5a80
 ---
 
-{{< resource_link 721a370c-c5f3-be1f-13f3-7199776cc198 "Review Notes; Contracts I (PDF)" >}} 
+{{% resource_link 721a370c-c5f3-be1f-13f3-7199776cc198 "Review Notes; Contracts I (PDF)" %}} 
 
 (By Arda Gitmez and Kosti Takala. Used with permission.)
 
