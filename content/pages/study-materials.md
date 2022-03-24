@@ -36,8 +36,6 @@ uid: b5cbd324-e6ea-5fba-a8e9-515482ba5a80
 
 ## Adverse Selection: An IC Transfer Scheme 
 
-Click to enlarge image. 
-
 {{< resource c4070738-a47e-0877-f521-2886eb0bd21b >}}
 
 (Image courtesy of Kosti Takala. Used with permission.)
