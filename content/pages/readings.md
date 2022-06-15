@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains a list of readings that were used in the course. '
 draft: false
 learning_resource_types:
 - Readings
