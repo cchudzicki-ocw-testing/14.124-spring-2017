@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains lecture notes created by Lars Stole. '
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
