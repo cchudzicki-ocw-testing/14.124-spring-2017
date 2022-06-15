@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains some study materials used during the course''s
+  recitation session. '
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
